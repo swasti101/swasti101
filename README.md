@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @swasti101
 - 🌱 I’m currently learning MERN stack and have a decent grasp of data structures and algorithms.
-- 💞️ I’m looking to collaborate on beginner friendly projects.
+- 🤹‍♀️ Skills - C++, Java, JavaScript, ReactJS, NextJS, TailwindCSS, TypeScript, HTML, NodeJS, MySQL, MongoDB, Operating systems, DBMS, Computer Networks.
+- ©️ Leetcode - https://leetcode.com/u/swasti13/
+- 👩‍💻 LinkedIn - https://www.linkedin.com/in/swasti-jain-b14244286/
 - 📫 Email-swastij64@gmail.com
 
 <!---
